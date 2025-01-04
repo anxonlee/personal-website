@@ -1,4 +1,3 @@
-import Header from './components/header.js'
 import Navbar from './components/navbar.js'
 import About from './components/about.js'
 import Experience from './components/experience.js'
