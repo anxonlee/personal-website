@@ -11,7 +11,6 @@ function App() {
   return (
     <div style={{ fontFamily: 'Futura, sans-serif' }}>
       <Navbar/>
-      {/* <Header/> */}
       <About/>
       <Projects/>
       <Experience/>

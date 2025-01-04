@@ -1,8 +1,9 @@
 {
+  "homepage": "https://anxonlee.github.io/my-website",
+
   "name": "my-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://anxonlee.github.io/my-website",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
